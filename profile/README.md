@@ -9,7 +9,7 @@ Post Graduation GitHub Organization for group 6 projects
 | Alan Martins | [![](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-martins-38b35799/)](https://www.linkedin.com/in/alan-martins-38b35799/) [![](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/alandlan)](https://github.com/alandlan) [![](https://img.shields.io/badge/Mail-red?style=flat&logo=gmail&logoColor=white&link=mailto:alan4lann@gmail.com)](mailto:alan4lann@gmail.com)
 
 ## Repositories
-[ Name | Description |
+| Name | Description |
 |------|-------------|
 | [graduation-phase-one](https://github.com/fiap-net-group/graduation-phase-one) | Post-graduation first phase (bimester) project |
 | [graduation-phase-two](https://github.com/fiap-net-group/graduation-phase-two) | Post-graduation second phase (bimester) project |
