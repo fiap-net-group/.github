@@ -9,11 +9,11 @@ Post Graduation GitHub Organization for group 6 projects
 | Alan Martins | [![](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-martins-38b35799/)](https://www.linkedin.com/in/alan-martins-38b35799/) [![](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/alandlan)](https://github.com/alandlan) [![](https://img.shields.io/badge/Mail-red?style=flat&logo=gmail&logoColor=white&link=mailto:alan4lann@gmail.com)](mailto:alan4lann@gmail.com)
 
 ## Repositories
-| Name | Description |
-|------|-------------|
-| [graduation-phase-one](https://github.com/fiap-net-group/graduation-phase-one) | Post-graduation first phase (bimester) project |
-| [graduation-phase-two](https://github.com/fiap-net-group/graduation-phase-two) | Post-graduation second phase (bimester) project |
-| [graduation-phase-three](https://github.com/fiap-net-group/graduation-phase-three) | Post-graduation fourth phase (bimester) project |
-| [graduation-phase-four](https://github.com/fiap-net-group/graduation-phase-four) | Post-graduation fourth phase (bimester) project |
-| [graduation-phase-five](https://github.com/fiap-net-group/graduation-phase-five) | Post-graduation fift and last phase (bimester) project |
-| [graduation-hackaton](https://github.com/fiap-net-group/graduation-hackaton) | Post-graduation hackaton project |
+| Name | Description | Grade |
+|------|-------------|-------|
+| [graduation-phase-one](https://github.com/fiap-net-group/graduation-phase-one) | Post-graduation first phase (bimester) project | 60/60
+| [graduation-phase-two](https://github.com/fiap-net-group/graduation-phase-two) | Post-graduation second phase (bimester) project | 60/60
+| [graduation-phase-three](https://github.com/fiap-net-group/graduation-phase-three) | Post-graduation fourth phase (bimester) project | 60/60
+| [graduation-phase-four](https://github.com/fiap-net-group/graduation-phase-four) | Post-graduation fourth phase (bimester) project | 60/60
+| [graduation-phase-five](https://github.com/fiap-net-group/graduation-phase-five) | Post-graduation fift and last phase (bimester) project | 60/60
+| [graduation-hackaton](https://github.com/fiap-net-group/graduation-hackaton) | Post-graduation hackaton project | 30/30
